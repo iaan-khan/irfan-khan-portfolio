@@ -10,7 +10,7 @@ export const profile = {
   social: {
     github: 'https://github.com/iaan-khan',
     linkedin: 'https://www.linkedin.com/in/iaankhan/',
-    email: 'contact@iaankhan.dev',
+    email: 'iankhan.me@gmail.com',
   },
 
   // Core technologies

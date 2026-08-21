@@ -72,8 +72,8 @@ export const experience: Experience[] = [
     ]
   },
   {
-    id: 'semantic-health',
-    company: 'Semantic Health',
+    id: 'piesoft',
+    company: 'PieSoft',
     role: 'Senior Software Engineer / Full Stack Engineer',
     period: 'Previous',
     summary: 'Enterprise Order Management, Fulfillment & Business Applications',
