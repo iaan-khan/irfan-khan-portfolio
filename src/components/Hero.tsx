@@ -40,7 +40,7 @@ export function Hero() {
               <div className="w-3 h-3 rounded-full bg-yellow-500"></div>
               <div className="w-3 h-3 rounded-full bg-green-500"></div>
             </div>
-            <div className="text-xs text-dark-400 font-mono ml-3">~/iaan-khan</div>
+            <div className="text-xs text-dark-400 font-mono ml-3">~/irfan-khan</div>
           </div>
 
           {/* Terminal content */}

@@ -17,7 +17,7 @@ export function Header() {
             <div className="w-8 h-8 flex items-center justify-center font-mono bg-accent-600 text-dark-900 font-bold text-sm">
               IK
             </div>
-            <span className="hidden sm:inline text-sm font-mono">~/iaan-khan</span>
+            <span className="hidden sm:inline text-sm font-mono">~/irfan-khan</span>
           </a>
 
           {/* Desktop Navigation */}
