@@ -1,5 +1,5 @@
 export const profile = {
-  name: 'Iaan Khan',
+  name: 'Irfan A. Khan',
   title: 'Senior Software Engineer',
   subtitle: 'Full Stack • Cloud • Microservices',
   location: 'Punjab, Pakistan',
@@ -9,8 +9,9 @@ export const profile = {
   // Social links
   social: {
     github: 'https://github.com/iaan-khan',
-    linkedin: 'https://www.linkedin.com/in/iaankhan/',
-    email: 'iankhan.me@gmail.com',
+    linkedin: 'https://www.linkedin.com/in/-irfan-khan/',
+    email: 'irfanakhan.works@gmail.com',
+    phone: '+1 (346) 415-0002',
   },
 
   // Core technologies

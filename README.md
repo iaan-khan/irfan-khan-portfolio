@@ -1,10 +1,10 @@
-# Iaan Khan — Senior Software Engineer Portfolio
+# Irfan A. Khan — Senior Software Engineer Portfolio
 
-A premium, production-ready personal portfolio website for Iaan Khan, showcasing experience in full-stack development, cloud architecture, microservices, and AI-powered applications.
+A premium, production-ready personal portfolio website for Irfan A. Khan, showcasing experience in full-stack development, cloud architecture, microservices, and AI-powered applications.
 
 ## 🎯 Overview
 
-This is a static frontend application built with **React + TypeScript + Vite** designed to be deployed on **GitHub Pages**. The website presents Iaan's professional experience, engineering work, architecture knowledge, and technology stack in a developer-focused, technically credible manner.
+This is a static frontend application built with **React + TypeScript + Vite** designed to be deployed on **GitHub Pages**. The website presents Irfan's professional experience, engineering work, architecture knowledge, and technology stack in a developer-focused, technically credible manner.
 
 ### Key Features
 

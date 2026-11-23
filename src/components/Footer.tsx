@@ -59,7 +59,7 @@ export function Footer() {
             Deployed on GitHub Pages
           </p>
           <p>
-            © {currentYear} Iaan Khan. All rights reserved.
+            © {currentYear} {profile.name}. All rights reserved.
           </p>
         </div>
       </div>
